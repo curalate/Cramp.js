@@ -146,7 +146,7 @@
                     parentNode.removeChild(node);
 
                     // Add the "..." string
-                    parentNode.appendChild(new Text(truncationText));
+                    parentNode.appendChild(document.createTextNode(truncationText));
 
                     // Does the content fit?
                     if (isCramped(maxLines)) {
