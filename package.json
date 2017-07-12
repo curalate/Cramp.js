@@ -1,0 +1,19 @@
+{
+  "name": "cramp.js",
+  "version": "1.0.0",
+  "description": "Cramps (ie. cuts off) an HTML element's content by adding ellipsis to it if the content inside is too long.",
+  "main": "clamp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curalate/Cramp.js.git"
+  },
+  "author": "",
+  "license": "unlicensed",
+  "bugs": {
+    "url": "https://github.com/curalate/Cramp.js/issues"
+  },
+  "homepage": "https://github.com/curalate/Cramp.js#readme"
+}
